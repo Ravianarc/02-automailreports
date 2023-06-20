@@ -1,0 +1,21 @@
+Steps :
+
+pre-installed : python instalation should be done
+
+1. Need to setup virtual python environment environment : 
+    sudo apt install python3-venv
+    python3 -m venv automailreports
+    ls automailreports
+    source automailreports/bin/activate
+
+2. create project folders using initilize.py
+
+3. installing python packages using installpackage.py and requirementx.txt
+
+4. start the database installation through docker. can install anywhere but port ,dbname and credentials should be accessible.
+    Now check docker folder for postgress database.
+
+5. Modeling the tables in docker folder tabel.sql file
+
+
+ravianarc@outlook.com /Moni2Nuvali@123456
