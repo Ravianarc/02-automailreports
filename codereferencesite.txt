@@ -1,5 +1,2 @@
 https://www.activestate.com/resources/quick-reads/how-to-install-python-packages-using-a-script/
 https://www.askpython.com/python/python-comments
-
-Report name : test
-paramter : { from date : 123 , two_date:456}
